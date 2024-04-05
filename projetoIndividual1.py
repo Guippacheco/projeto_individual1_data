@@ -5,7 +5,6 @@ candidatos =[
     ['candidato 4','e2_t2_p2_s1'],
     ['candidato 5','e10_t10_p8_s9'],
     ]
-# OUTROS RESULTADOS NO MESMO FORMATO
 
 def buscaCandidato(candidatos,entrevista, teorico, pratico, soft):
     candidatosAprovados = []
